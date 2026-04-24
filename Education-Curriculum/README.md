@@ -1,4 +1,4 @@
-# 🎓 CivTech Optimum Mühendislik Müfredatı (The Global Synthesis)
+# 🎓 Siber-Insaat-Enstitusu Optimum Mühendislik Müfredatı (The Global Synthesis)
 
 Bu müfredat, dünya çapında inşaat mühendisliği ve teknolojisinde lider olan ülkelerin en güçlü yanlarını bir araya getiren, hibrit ve yeni nesil bir eğitim programıdır. Amacımız, mühendisi sadece hesap yapan biri değil, "İnşaat İşletim Sistemi" tasarlayan bir mimar haline getirmektir.
 

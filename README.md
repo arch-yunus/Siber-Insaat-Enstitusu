@@ -1,6 +1,6 @@
-# �️ CivTech-Core
+# 🏛️ Siber-Insaat-Enstitusu
 
-![CivTech-Core Banner](assets/civtech_core_banner.png)
+![Siber-Insaat-Enstitusu Banner](assets/siber_insaat_enstitusu_banner.png)
 
 > **"İnşaat Mühendisliğini Yapay Zeka ve Otomasyon ile Yeniden Keşfetmek"**
 > *Reinventing Civil Engineering through Artificial Intelligence and Automation*
@@ -10,9 +10,9 @@
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/bahattinyunus/CivTech-Core)
 [![Code Style](https://img.shields.io/badge/Code%20Style-Black-000000?style=for-the-badge)](https://github.com/psf/black)
 
-**CivTech-Core**, geleneksel inşaat mühendisliği disiplinlerini modern bilgisayar bilimleri teknolojileriyle (**Yapay Zeka, Nesnelerin İnterneti, Büyük Veri Analitiği, Bulut Bilişim**) birleştiren, açık kaynaklı, yeni nesil bir mühendislik çekirdeğidir. Bu depo, betonarme yapıların statik hesaplamalarından şantiye yönetimindeki lojistik akışlara, malzeme biliminden kentsel planlamaya kadar inşaat sektörünün her adımını dijitalleştirmeyi amaçlayan, bütünleşik bir "İnşaat İşletim Sistemi" (Construction OS) vizyonu taşır. Bizler, inşaat sahasını sadece fiziksel bir üretim alanı olarak değil, sürekli veri üreten ve bu verilerle optimize edilen karmaşık bir siber-fiziksel sistem olarak tanımlıyoruz.
+**Siber-Insaat-Enstitusu**, geleneksel inşaat mühendisliği disiplinlerini modern bilgisayar bilimleri teknolojileriyle (**Yapay Zeka, Nesnelerin İnterneti, Büyük Veri Analitiği, Bulut Bilişim**) birleştiren, açık kaynaklı, yeni nesil bir mühendislik çekirdeğidir. Bu depo, betonarme yapıların statik hesaplamalarından şantiye yönetimindeki lojistik akışlara, malzeme biliminden kentsel planlamaya kadar inşaat sektörünün her adımını dijitalleştirmeyi amaçlayan, bütünleşik bir "İnşaat İşletim Sistemi" (Construction OS) vizyonu taşır. Bizler, inşaat sahasını sadece fiziksel bir üretim alanı olarak değil, sürekli veri üreten ve bu verilerle optimize edilen karmaşık bir siber-fiziksel sistem olarak tanımlıyoruz.
 
-Bu proje, sadece bir kod kütüphanesi veya araç seti değildir; mühendislerin "akıllı şehirler", "otonom yapılar" ve "kendi kendini onaran malzemeler" çağına geçişi için gerekli olan entelektüel ve teknik altyapıyı sunan yaşayan bir ekosistemdir. Geleceğin şehirlerini inşa etmek için gereken dijital tuğlaları burada kodluyoruz. **CivTech-Core**, mühendisliği hesap makinesinden kurtarıp, algoritmaların ve yapay zekanın gücüyle yeniden donatmayı hedefler.
+Bu proje, sadece bir kod kütüphanesi veya araç seti değildir; mühendislerin "akıllı şehirler", "otonom yapılar" ve "kendi kendini onaran malzemeler" çağına geçişi için gerekli olan entelektüel ve teknik altyapıyı sunan yaşayan bir ekosistemdir. Geleceğin şehirlerini inşa etmek için gereken dijital tuğlaları burada kodluyoruz. **Siber-Insaat-Enstitusu**, mühendisliği hesap makinesinden kurtarıp, algoritmaların ve yapay zekanın gücüyle yeniden donatmayı hedefler.
 
 ---
 
@@ -29,7 +29,7 @@ CivTech-Core, mühendisliği sadece fiziksel bir eylem olarak değil, evrenin ra
 > *"Değişmeyen tek şey değişimdir."* — **Herakleitos**
 
 ### Statik Dünyadan Dinamik Evrene Geçiş: Determinizmin Sonu
-Geleneksel inşaat mühendisliği, yüzyıllardır büyük ölçüde deterministik hesaplamalara dayanmaktadır. Ancak Herakleitos'un binlerce yıl önce dediği gibi, her şey akış halindedir. **CivTech-Core**, yapıları "yaşayan, veri üreten, öğrenen" organizmalar olarak ele alarak bu akışı dijital ikizlerle yakalar.
+Geleneksel inşaat mühendisliği, yüzyıllardır büyük ölçüde deterministik hesaplamalara dayanmaktadır. Ancak Herakleitos'un binlerce yıl önce dediği gibi, her şey akış halindedir. **Siber-Insaat-Enstitusu**, yapıları "yaşayan, veri üreten, öğrenen" organizmalar olarak ele alarak bu akışı dijital ikizlerle yakalar.
 
 ---
 
@@ -71,7 +71,7 @@ CivTech müfredatı, mühendislere sadece hazır formülleri yüklemeyi değil, 
 
 <div align="center">
 
-**CivTech-Core**
+**Siber-Insaat-Enstitusu**
 *Gelecek betonda değil, betonun içindeki veride saklıdır.*
 
 [![Author](https://img.shields.io/badge/Author-Bahattin%20Yunus%20Çetin-lightgrey?style=flat-square)](https://github.com/bahattinyunus)
