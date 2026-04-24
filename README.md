@@ -51,12 +51,13 @@ Binaların sinir sistemini oluşturarak onları "akıllı" ve "iletişim kurabil
 *   **Advanced Sensor Fusion (İleri Sensör Füzyonu):** Binanın kritik noktalarına yerleştirilen ivmeölçerler, gerinim ölçerler (strain gauges), fiber optik sensörler ve eğim ölçerlerden gelen yüksek frekanslı ham veriyi Kalman Filtreleri ve Bayesyen ağlar ile işleyerek gürültüden arındırır. Farklı sensör tiplerinden gelen veriyi birleştirerek (füzyon), tek bir sensörün veremeyeceği bütüncül bir sağlık resmi çizer.
 *   **Real-Time Fatigue & Damage Detection (Gerçek Zamanlı Hasar Tespiti):** Yapısal elemanlardaki mikro çatlakları, korozyon ilerlemesini ve malzeme yorulmasını (fatigue) sürekli izler. Kritik eşik değerleri aşıldığında (örneğin bir deprem sonrası artçı şokta veya aşırı rüzgar yüklemesinde), bina sakinlerine veya yetkililere otomatik, konum tabanlı uyarı gönderen akıllı bir "Erken Uyarı Sistemi"ni barındırır.
 
-### 4. 🎓 [Education-Curriculum](./Education-Curriculum) (Yeni Nesil Müfredat: Mühendis 4.0)
+### 4. 🎓 [Education-Curriculum](./Education-Curriculum) (CivTech Optimum Müfredatı: Küresel Sentez)
 
-Sadece bugünü değil, geleceği de inşa etmek için mühendislik eğitiminde radikal bir reform paketi sunar. "Ezberleyen değil, türeten mühendis" yetiştirmeyi hedefler.
+Sadece bugünü değil, geleceği de inşa etmek için dünyanın en iyi mühendislik eko-sistemlerini (Japonya, Almanya, ABD, Çin, Singapur) birleştiren radikal bir reform paketi sunar.
 
-*   **First Principles Thinking & White-Box Modeling:** Mühendislik problemlerini kapalı kutu (black-box) yazılımlarla çözmeyi reddeder; bunun yerine fiziksel temel prensiplerden türeterek ve Python simülasyonları ile modelleyerek (white-box) öğretir. Öğrenci, "programın verdiği sonucun" kölesi değil, "algoritmanın efendisi" olur.
-*   **Interactive Computational Notebooks:** Statik, Mukavemet, Akışkanlar Mekaniği ve Zemin Mekaniği gibi temel dersler için hazırlanmış, zenginleştirilmiş Jupyter Notebook'ları içerir. Öğrenciler diferansiyel denklemleri kağıt üzerinde değil, `SciPy` ve `NumPy` kütüphaneleri ile interaktif olarak çözer, sonuçları 3D olarak görselleştirir ve parametrelerle oynayarak fiziği hisseder. Teorik formüller, çalışan koda dönüşür.
+*   **Küresel Sentez Modeli:** Japonya'nın sismik robotik gücünü, Almanya'nın hassas sürdürülebilirliğini, ABD'nin yazılım zekasını, Çin'in üretim hızını ve Singapur'un akıllı şehir vizyonunu tek müfredatta birleştirir.
+*   **First Principles Thinking & White-Box Modeling:** Mühendislik problemlerini kapalı kutu (black-box) yazılımlarla çözmeyi reddeder; Python simülasyonları ile "türeterek" öğretir.
+*   **Interactive Computational Notebooks:** `SciPy`, `NumPy` ve Derin Öğrenme kütüphaneleri ile interaktif olarak hazırlanmış, teorik formülleri çalışan koda dönüştüren eğitim modülleri.
 
 ---
 
